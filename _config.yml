@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: "Software Portfolio"
 description: "A Locus for My CS Projects"
 baseurl: "vader-coder.github.io"
+plugins:
+  - jekyll-gzip
