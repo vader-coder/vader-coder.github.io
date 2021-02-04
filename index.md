@@ -12,9 +12,9 @@
   [Source Code](https://github.com/vader-coder/MasonsGainFormula) <br/>
   
 ## Philly Bail Statistics
-  Created an online overview of Philadelphia bail statistics during the one-day hackathon Owlhacks with R Shiny. 
-  [Production Site](https://phillybail.shinyapps.io/philly-bail/)
-  [Source Code](https://github.com/dzhen19/philly-bail)
+  Created an online overview of Philadelphia bail statistics during the one-day hackathon Owlhacks with R Shiny. <br/>
+  [Production Site](https://phillybail.shinyapps.io/philly-bail/) <br/>
+  [Source Code](https://github.com/dzhen19/philly-bail) <br/>
 
 ## Android Calculator
   I attended a LaunchDeck Mobile Development workshop at my college. <br/>
