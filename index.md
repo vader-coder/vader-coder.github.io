@@ -19,14 +19,14 @@
 ## Android Calculator
   I attended a LaunchDeck Mobile Development workshop at my college. <br/>
   I was inspired to make this app. The app and its APK are subject to the MIT License. <br/>
-  [Source Code](https://github.com/vader-coder/Scientific-Calculator)
-  [APK File](https://drive.google.com/drive/folders/1bs8LLBjq0-AEpmbTAWSDFc9EvHRBoRHG?usp=sharing)
-  [MIT License](https://opensource.org/licenses/MIT)
+  [Source Code](https://github.com/vader-coder/Scientific-Calculator) <br/>
+  [APK File](https://drive.google.com/drive/folders/1bs8LLBjq0-AEpmbTAWSDFc9EvHRBoRHG?usp=sharing) <br/>
+  [MIT License](https://opensource.org/licenses/MIT) <br/>
 
 ## Kattis
   Code to every Kattis problem I have every tinkered with. <br/>
   I'm a member of Swarthmore's International Competitive Programming Competition team. <br/>
   We use Kattis to practice coding problems. <br/>
-  [Source Code](https://github.com/vader-coder/Kattis)
-  [ICPC Official Website](https://icpc.global/)
-  [Kattis](https://open.kattis.com/)
+  [Source Code](https://github.com/vader-coder/Kattis) <br/>
+  [ICPC Official Website](https://icpc.global/) <br/>
+  [Kattis](https://open.kattis.com/) <br/>
