@@ -11,6 +11,12 @@
   [Development Site](https://vader-coder.github.io/MasonsGainFormula/) <br/>
   [Source Code](https://github.com/vader-coder/MasonsGainFormula) <br/>
   
+## Magahi
+  Rudimentary rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
+  Built on the apertium pipeline.<br/>
+  [Source Code](https://github.com/apertium/apertium-mag)
+  [Wiki Page](https://wikis.swarthmore.edu/ling073/Magahi)
+  
 ## Philly Bail Statistics
   Created an online overview of Philadelphia bail statistics during the one-day hackathon Owlhacks with R Shiny. <br/>
   [Production Site](https://phillybail.shinyapps.io/philly-bail/) <br/>
