@@ -1,0 +1,4 @@
+"Website uses HTML, CSS, Client-Side JavaScript to make Bode Plots. <br/>\
+<a href='https://lpsa.swarthmore.edu/Bode/bodeDraw.html'>Production Site</a><br\>\
+<a href='https://vader-coder.github.io/BodeRoot/'>Development Site</a><br\>\
+<a href='https://github.com/vader-coder/BodeRoot'>Source Code</a>"
