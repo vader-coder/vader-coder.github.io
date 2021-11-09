@@ -4,7 +4,7 @@ let cardsData = [
   image: 'https://source.unsplash.com/h-ACUrBngrw/1280x720',
   avatar: 'https://avatars.dicebear.com/api/initials/john%20doe.svg',
   user: {
-    name: 'MasonsGainFormula',
+    name: 'Name0',
     handle: 'twitterid',
     title: 'BodeRoot'
   },
@@ -32,7 +32,7 @@ id: 1,
 image: 'https://source.unsplash.com/h-ACUrBngrw/1280x720',
 avatar: 'https://avatars.dicebear.com/api/initials/john%20doe.svg',
 user: {
-  name: 'MasonsGainFormula',
+  name: 'Name1',
   handle: 'twitterid',
   title: 'MasonsGainFormula'
 },
@@ -64,7 +64,7 @@ id: 3,
 image: 'https://source.unsplash.com/h-ACUrBngrw/1280x720',
 avatar: 'https://avatars.dicebear.com/api/initials/john%20doe.svg',
   user: {
-    name: 'Magahi',
+    name: 'Name2',
     handle: 'twitterid',
     title: 'Magahi'
   },
@@ -79,15 +79,16 @@ avatar: 'https://avatars.dicebear.com/api/initials/john%20doe.svg',
     text: 'Source Code'//,
     //indent: ''
   }
+},
 
   {
-  id: 3,
+  id: 4,
   image: 'https://source.unsplash.com/h-ACUrBngrw/1280x720',
   avatar: 'https://avatars.dicebear.com/api/initials/john%20doe.svg',
   user: {
-    name: 'Philly Bail Statistics',
+    name: 'Name3',
     handle: 'twitterid',
-    title: 'Lead Developer'
+    title: 'Philly Bail Statistics'
   },
   content: 'Created an online overview of Philadelphia bail statistics during the one-day hackathon Owlhacks with R Shiny.',
   links: [{
