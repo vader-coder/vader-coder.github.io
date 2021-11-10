@@ -1,3 +1,13 @@
+## Decision Tree
+  Decision Tree using Pandas and Numpy. <br/>
+  [Notebook As Html](https://vader-coder.github.io/MiscStat/tree/tree.html)<br/>
+  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/tree)<br/>
+
+## Regressor
+  Binary Logistic Regression using Pandas and Numpy. <br/>
+  [Notebook As Html](https://vader-coder.github.io/MiscStat/log/logistic.html)</br>
+  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/log)</br>
+
 ## BodeRoot
   Website uses HTML, CSS, Client-Side JavaScript to make Bode Plots. <br/>
   [Production Site](https://lpsa.swarthmore.edu/Bode/bodeDraw.html) <br/>
