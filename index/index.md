@@ -1,13 +1,3 @@
-## Decision Tree
-  Decision Tree using Pandas and Numpy. <br/>
-  [Notebook As Html](https://vader-coder.github.io/MiscStat/tree/tree.html)<br/>
-  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/tree)<br/>
-
-## Regressor
-  Binary Logistic Regression using Pandas and Numpy. <br/>
-  [Notebook As Html](https://vader-coder.github.io/MiscStat/log/logistic.html)</br>
-  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/log)</br>
-
 ## BodeRoot
   Website uses HTML, CSS, Client-Side JavaScript to make Bode Plots. <br/>
   [Production Site](https://lpsa.swarthmore.edu/Bode/bodeDraw.html) <br/>
@@ -20,6 +10,24 @@
   [Production Site](https://lpsa.swarthmore.edu/SFG/) <br/>
   [Development Site](https://vader-coder.github.io/MasonsGainFormula/) <br/>
   [Source Code](https://github.com/vader-coder/MasonsGainFormula) <br/>
+
+## Decision Tree
+  Decision Tree using Pandas and Numpy. <br/>
+  [Notebook As Html](https://vader-coder.github.io/MiscStat/tree/tree.html)<br/>
+  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/tree)<br/>
+
+## Regressor
+  Binary Logistic Regression using Pandas and Numpy. <br/>
+  [Notebook As Html](https://vader-coder.github.io/MiscStat/log/logistic.html)<br/>
+  [Source Code](https://github.com/vader-coder/MiscStat/tree/main/log)<br/>
+  
+## Hash Table
+  Implemented a hash table in C++ and used it for database querying. <br/>
+  [Source Code](https://drive.google.com/drive/folders/1ILYB5M7jlwlISkL5fvXkfyBaF6hE1Pps?usp=sharing)<br/>
+  
+## Graph Algorithms
+  Implemented depth-first search, breadth-first search, and Dijkstra's algorithm in C++. <br/>
+  [Source Code](https://drive.google.com/drive/folders/1kYX1bHWY7dvvSbz0Z9ZOavjhWS8fMnLt?usp=sharing)<br/>
 
 ## Magahi
   Rudimentary rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
