@@ -30,7 +30,7 @@
   [Source Code](https://drive.google.com/drive/folders/1kYX1bHWY7dvvSbz0Z9ZOavjhWS8fMnLt?usp=sharing)<br/>
 
 ## Magahi
-  Rudimentary rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
+  Rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
   Built on the apertium pipeline.<br/>
   Contributed to the apertium open-source platform.<br/>
   [Source Code](https://github.com/apertium/apertium-mag)<br/>
