@@ -30,10 +30,12 @@
   
 ## Hash Table
   Implemented a hash table in C++ and used it for database querying. <br/>
+  [Lab Webpage](https://www.cs.swarthmore.edu/courses/cs35/f20/labs/08/)
   [Source Code](https://drive.google.com/drive/folders/1ILYB5M7jlwlISkL5fvXkfyBaF6hE1Pps?usp=sharing)<br/>
   
 ## Graph Algorithms
   Implemented depth-first search, breadth-first search, and Dijkstra's algorithm in C++. <br/>
+  [Lab Webpage](https://www.cs.swarthmore.edu/courses/cs35/f20/labs/09/)
   [Source Code](https://drive.google.com/drive/folders/1kYX1bHWY7dvvSbz0Z9ZOavjhWS8fMnLt?usp=sharing)<br/>
   
 ## Philly Bail Statistics
