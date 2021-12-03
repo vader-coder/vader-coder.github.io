@@ -10,6 +10,13 @@
   [Production Site](https://lpsa.swarthmore.edu/SFG/) <br/>
   [Development Site](https://vader-coder.github.io/MasonsGainFormula/) <br/>
   [Source Code](https://github.com/vader-coder/MasonsGainFormula) <br/>
+  
+## Magahi
+  Rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
+  Built on the apertium pipeline.<br/>
+  Contributed to the apertium open-source platform.<br/>
+  [Source Code](https://github.com/apertium/apertium-mag)<br/>
+  [Wiki Page](https://wikis.swarthmore.edu/ling073/Magahi)<br/>
 
 ## Decision Tree
   Decision Tree using Pandas and Numpy. <br/>
@@ -28,13 +35,6 @@
 ## Graph Algorithms
   Implemented depth-first search, breadth-first search, and Dijkstra's algorithm in C++. <br/>
   [Source Code](https://drive.google.com/drive/folders/1kYX1bHWY7dvvSbz0Z9ZOavjhWS8fMnLt?usp=sharing)<br/>
-
-## Magahi
-  Rule-based translation system between [Magahi](https://en.wikipedia.org/wiki/Magahi_language) and English. <br/>
-  Built on the apertium pipeline.<br/>
-  Contributed to the apertium open-source platform.<br/>
-  [Source Code](https://github.com/apertium/apertium-mag)<br/>
-  [Wiki Page](https://wikis.swarthmore.edu/ling073/Magahi)<br/>
   
 ## Philly Bail Statistics
   Created an online overview of Philadelphia bail statistics during the one-day hackathon Owlhacks with R Shiny. <br/>
